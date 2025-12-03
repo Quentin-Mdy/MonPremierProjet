@@ -1,0 +1,47 @@
+body {
+    height: 100%;
+    margin: 0;
+    padding: 20px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+}
+
+.pingouin{
+    background-image: url("pingouin.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+body {
+    background-image: url("feuilles.png");
+    background-repeat: repeat;
+    background-attachment: scroll, fixed;        
+    background-position: top left, top center;  
+    background-size: auto, 250px;
+           
+}
+
+.titre {
+    color: purple;
+    margin: 0 0 8px 0;
+}
+
+h1 {
+    font-size: 1.6em;
+    margin: 0 0 8px 0;
+}
+
+.introduction em {
+    font-style: italic;
+}
+
+
+.contenu {
+    max-width: 900px;
+}
+
+footer { margin-top: 20px; }
+footer ul { padding-left: 20px; margin:0; }
+footer a { color: #0645ad; text-decoration: underline; }

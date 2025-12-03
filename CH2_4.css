@@ -1,0 +1,43 @@
+.un{
+    background-color:rgba(0, 255, 255, 0.3);
+    border-style:dashed;
+    border-width: 10px;
+    border-color: darkorange;
+    background-image:url("pingouin.png");
+    background-size: 9%;
+    background-position: 0%;
+    background-repeat: no-repeat;
+
+}
+.deux{
+    background-color:rgba( 0, 128, 0, 0.3);
+    border-style:dashed;
+    border-width: 10px;
+    border-color: darkorange;
+    background-image:url("pingouin.png");
+    background-size: 15%;
+    background-position: 0%;
+    background-repeat: no-repeat;
+
+}
+.trois{
+    background-color:  rgba(128, 0, 128, 0.3);
+    border-style:dashed;
+    border-width: 10px;
+    border-color: darkorange;
+    background-image:url("pingouin.png");
+    background-size: 7%;
+    background-position: 0%;
+    background-repeat: no-repeat;
+
+}
+
+body {
+    background-color: gray;
+}
+p {
+    color : white;
+}
+h1, h2, h3{
+    color : white
+}
